@@ -6,7 +6,7 @@ Uses Google Puppeteer Headless Chrome to load a webpage URL and output as a PDF.
 
 Puppeteer API: https://pptr.dev/#?product=Puppeteer&version=v1.15.0&show=api-pagepdfoptions
 
-options <Object> Options object which might have the following properties:
+        options <Object> Options object which might have the following properties:
         
         path <string> The file path to save the PDF to. If path is a relative path, then it is resolved relative to current working directory. If no path is provided, the PDF won't be saved to the disk.
         
