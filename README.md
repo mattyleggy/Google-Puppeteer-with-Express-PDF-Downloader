@@ -1,4 +1,4 @@
-# Google-Puppeteer-with-Express-PDF-Downloader
+# Google Puppeteer with Express PDF Downloader
 
 Uses Google Puppeteer Headless Chrome to load a webpage URL and output as a PDF.
 
